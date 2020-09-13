@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\chuyendoinhietdo\bin\Debug\netcoreapp3.1\chuyendoinhietdo.exe
+C:\Users\admin\source\repos\chuyendoinhietdo\bin\Debug\netcoreapp3.1\chuyendoinhietdo.deps.json
+C:\Users\admin\source\repos\chuyendoinhietdo\bin\Debug\netcoreapp3.1\chuyendoinhietdo.runtimeconfig.json
+C:\Users\admin\source\repos\chuyendoinhietdo\bin\Debug\netcoreapp3.1\chuyendoinhietdo.runtimeconfig.dev.json
+C:\Users\admin\source\repos\chuyendoinhietdo\bin\Debug\netcoreapp3.1\chuyendoinhietdo.dll
+C:\Users\admin\source\repos\chuyendoinhietdo\bin\Debug\netcoreapp3.1\chuyendoinhietdo.pdb
+C:\Users\admin\source\repos\chuyendoinhietdo\obj\Debug\netcoreapp3.1\chuyendoinhietdo.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\chuyendoinhietdo\obj\Debug\netcoreapp3.1\chuyendoinhietdo.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\chuyendoinhietdo\obj\Debug\netcoreapp3.1\chuyendoinhietdo.AssemblyInfo.cs
+C:\Users\admin\source\repos\chuyendoinhietdo\obj\Debug\netcoreapp3.1\chuyendoinhietdo.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\chuyendoinhietdo\obj\Debug\netcoreapp3.1\chuyendoinhietdo.dll
+C:\Users\admin\source\repos\chuyendoinhietdo\obj\Debug\netcoreapp3.1\chuyendoinhietdo.pdb
+C:\Users\admin\source\repos\chuyendoinhietdo\obj\Debug\netcoreapp3.1\chuyendoinhietdo.genruntimeconfig.cache
